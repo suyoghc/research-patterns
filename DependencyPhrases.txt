@@ -1,0 +1,75 @@
+#General Influence. Left Independent. XY0
+X impacts Y
+X influenced Y
+X impacted Y
+X influences Y
+X affected Y
+role of X in Y
+role of X on Y
+effect of X in Y
+effect of X on Y
+effects of X on Y
+effects of X in Y
+influence of X in Y
+influence of X on Y 
+
+#General Influence. Left Dependent. YX0
+Y was impacted by X
+Y was affected by X
+Y was dependent on X
+Y depended on X
+
+#Influence Increase. Left Independent. XY+
+X increased Y
+X improved Y
+X fostered Y
+X led to gains in Y
+X led to improvements in Y
+X elevated Y
+X raised Y
+
+#Influence Increase. Left Dependent. YX+
+Y was increased by X
+Y was improved by X
+Y was fostered by X
+Y was elevated by X
+Y was raised by X
+
+#Influence Decrease. Left Independent. XY-
+X decreased Y
+X diminished Y
+X inhibited Y
+X lowered Y
+X decremented Y
+X led to decreases in Y
+X led to a decrease in Y
+
+#Influence Decrease. Left Dependent. YX-
+Y was decreased by X
+Y was diminished by X
+Y was inhibited by X
+Y was moderated by X
+Y was lowered by X
+Y was moderated by X
+Y was decremented by X
+
+#Measure. Right Dependent. Y00
+measured Y
+measure of Y
+scale of Y
+
+#Measure. Left Dependent. Y00
+Y was measured
+Y was gauged
+Y was recorded
+Y were measured
+Y were recorded
+Y were gauged
+
+#Manipulation. Right Independent. X00
+manipulated X
+varied X
+
+#Manipulation. Left Independent. X00
+X was manipulated
+X was varied

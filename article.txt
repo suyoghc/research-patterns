@@ -1,0 +1,1003 @@
+Page 1
+Psychological Science
+http://pss.sagepub.com/
+
+--
+Ego Depletion
+Is It All in Your Head? : Implicit Theories About Willpower Affect Self-
+Regulation
+Veronika Job, Carol S. Dweck and Gregory M. Walton
+Psychological Science
+published online 28 September 2010
+DOI: 10.1177/0956797610384745
+The online version of this article can be found at:
+http://pss.sagepub.com/content/early/2010/09/28/0956797610384745
+
+Published by:
+
+http://www.sagepublications.com
+On behalf of:
+Association for Psychological Science
+
+Additional services and information for
+Psychological Science
+can be found at:
+Email Alerts:
+
+http://pss.sagepub.com/cgi/alerts
+
+Subscriptions:
+http://pss.sagepub.com/subscriptions
+
+Reprints:
+http://www.sagepub.com/journalsReprints.nav
+Permissions:
+
+http://www.sagepub.com/journalsPermissions.nav
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+ (cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+Page 2
+Psychological Science OnlineFirst, published on September 28, 2010 as doi:
+10.1177/0956797610384745
+
+Research Ar tic le
+Ego Depletion—Is It All in Your Head?
+Implicit Theories About Willpower Affect
+Self-Regulation
+Psychological Science
+XX(X) 1 –8
+© The Author(s) 2010
+Reprints and permission:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0956797610384745
+http://pss.sagepub.com
+Veronika Job, Carol S. Dweck, and Gregory M. Walton
+Stanford University
+Abstract
+Much recent research suggests that willpower—the capacity to exert self-
+control—is a limited resource that is depleted after
+exertion. We propose that whether depletion takes place or not depends on a
+person’s belief about whether willpower is
+a limited resource. Study 1 found that individual differences in lay theories
+about willpower moderate ego-depletion effects:
+People who viewed the capacity for self-control as not limited did not show
+diminished self-control after a depleting experience.
+Study 2 replicated the effect, manipulating lay theories about willpower. Study
+3 addressed questions about the mechanism
+underlying the effect. Study 4, a longitudinal field study, found that theories
+about willpower predict change in eating behavior,
+procrastination, and self-regulated goal striving in depleting circumstances.
+Taken together, the findings suggest that reduced
+self-control after a depleting task or during demanding periods may reflect
+people’s beliefs about the availability of willpower
+rather than true resource depletion.
+Keywords
+implicit theories, self-control, self-regulation, ego depletion
+Received 12/24/09; Revision accepted 4/17/10
+Some of the most provocative and influential research of
+the past decade has investigated the strength model of self-
+control (e.g., Baumeister, Bratlavsky, Muraven, &amp; Tice, 1998;
+Baumeister, Vohs, &amp; Tice, 2007). This model suggests that
+acts of self-regulation consume a resource that is limited, leav-
+ing people in a state of ego depletion and making them less
+able to exert self-control on a subsequent task. The strength
+model of self-control accounts for an impressive array of
+empirical findings, including depletion effects on information
+processing (Fischer, Greitemeyer, &amp; Frey, 2008), intellectual
+performance (Schmeichel, Vohs, &amp; Baumeister, 2003), impres-
+sion management (Vohs, Baumeister, &amp; Ciarocco, 2005), and
+violent responses to provocation by a partner (Finkel, DeWall,
+Slotter, Oaten, &amp; Foshee, 2009).
+Some research, however, suggests that the exertion of self-
+control does not invariably reduce subsequent self-control
+(Moller, Deci, &amp; Ryan, 2006; Tice, Baumeister, Shmueli, &amp;
+Muraven, 2007). For instance, people who are motivated by
+incentives to control themselves may not show ego-depletion
+effects (Muraven &amp; Slessareva, 2003). Most relevant to the
+present research are findings that expectancies about dimin-
+ished self-control following exertion can moderate ego deple-
+tion. In one study, some participants were told that performing
+an effortful task (controlling their emotions) could improve
+performance on a subsequent task (Martijn, Tenbült, Merckel-
+bach, Dreezens, &amp; de Vries, 2002). These participants showed
+no decrease in subsequent self-control performance (squeez-
+ing a handgrip).
+Here, we ask a more general question: Does holding a
+global theory that difficult tasks are energizing rather than
+depleting prevent ego depletion and help people sustain self-
+regulation? Specifically, we report a set of studies that tested
+whether people’s implicit theories about self-control moderate
+ego-depletion effects. Much research documents the effects of
+implicit theories on self-related processes. These theories
+include beliefs about the nature of human attributes, such as
+whether intelligence and personality are fixed or malleable
+(Blackwell, Trzesniewski, &amp; Dweck, 2007; Dweck, 1999;
+Molden &amp; Dweck, 2006). In the context of self-regulation,
+we propose that people differ in their implicit theories about
+the availability and depletability of self-control resources
+Corresponding Author :
+Veronika Job, University of Zurich, Department of Psychology,
+Binzmühlestrasse 14/6, 8050 Zürich, Switzerland
+E-mail: v.job@psychologie.uzh.ch
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+
+Page 3
+2
+
+Job et al.
+(or their “willpower”). Some people may think that self-
+control is a limited resource, as described in the strength model
+of self-control. Others may believe that self-control is not
+limited and perhaps even that engaging in a strenuous task can
+activate self-control resources. We call these the limited-
+resource theory and the nonlimited-resource theory, respec-
+tively. We suggest that these theories affect how well people
+self-regulate when demands on self-control accumulate.
+Overview of the Studies
+Three experiments and a longitudinal study tested the effect of
+implicit theories about willpower on ego depletion. The first
+studies, using a traditional ego-depletion paradigm, measured
+(Study 1) and manipulated (Study 2) implicit theories to test the
+hypothesis that implicit theories moderate ego depletion. Study
+3 examined mechanisms involved in the findings from Studies
+1 and 2. For example, one possibility based on the strength
+model of self-control is that people given a nonlimited-resource
+theory perform well on a postdepletion task because they
+“overuse” their resources, whereas those given a limited-resource
+theory conserve and replenish their resources (Baumeister &amp;
+Vohs, 2007). If so, on a third demanding task, people given the
+limited-resource theory should perform better than those given
+the nonlimited-resource theory (Muraven, Shmueli, &amp; Burkley,
+2006). Study 3 also tested whether, following a demanding
+task, people with the nonlimited-resource theory felt less
+exhausted than those with the limited-resource theory or expe-
+rienced the same level of exhaustion but were less affected by
+exhaustion. Finally, Study 4 examined the effect of implicit
+theories on self-regulation during a time of high self-regulatory
+demands (i.e., during students’ final exams).
+Study 1
+Study 1 investigated whether individual differences in implicit
+theories about willpower moderate ego depletion.
+Method
+Par ticipants . Sixty students (42 females, 18 males) partici-
+pated in a “study on stimulus detection and cognitive process-
+ing” in exchange for course credit or $10.
+Materials and procedure . First, participants completed six
+items assessing implicit theories about willpower, specifically,
+their theories about the effects of mental exertion. So as not to
+arouse suspicion, the measure was embedded among several
+other implicit-theory measures (e.g., theories of personality
+and of intelligence). Items included “After a strenuous mental
+activity your energy is depleted and you must rest to get it
+refueled again” (limited-resource theory) and “Your mental
+stamina fuels itself; even after strenuous mental exertion you
+can continue doing more of it” (nonlimited-resource theory).
+Participants responded using a 6-point rating scale (1 =
+strongly agree, 6 = strongly disagree). Table S1, in the Supple-
+mental Material available online, presents the full scale. Items
+were scored so that higher values represent greater agreement
+with the limited-resource theory. The scale was reliable (α =
+.89), so the scores on the six items were averaged (M = 4.13,
+SD = 0.84).
+Participants then completed a “stimulus detection task.” This
+task was adopted from previous research to manipulate ego
+depletion (Baumeister et al., 1998; Tice et al., 2007; Wheeler,
+Briñol, &amp; Hermann, 2007). It consisted of two parts, each lasting
+5 min. First, all participants were instructed to cross out each e on
+a page of typewritten text. This task establishes a behavioral pat-
+tern. Second, on a second page, some participants (nondepleting
+condition) were again instructed to cross out every e. Others
+(depleting condition) were asked to follow complex rules that
+sometimes required them to inhibit the previously established
+response (e.g., not to cross out an e followed by a vowel).
+Next, participants completed a standard measure of ego
+depletion—a Stroop task (Gailliot et al., 2007; Inzlicht,
+McKay, &amp; Aronson, 2006; Webb &amp; Sheeran, 2003). Color
+words (red, green, yellow, and blue) appeared on a computer
+screen in a font color that was either congruent or incongruent
+with their meaning. Participants completed 48 trials (24 incon-
+gruent). In each, they were instructed to press a key marked
+with the color the word was written in. The Stroop task is a
+widely used measure of self-control because on incongruent
+trials, the meaning of the word interferes with naming its color
+and has to be suppressed for accurate identification of the font
+color. Previous research has found ego-depletion effects on
+performance on incongruent Stroop trials and not on congru-
+ent trials (Inzlicht &amp; Gutsell, 2007). Therefore, the primary
+outcome was accuracy on incongruent trials.1
+Results and discussion
+Accuracy on each incongruent Stroop trial was coded (correct =
+0, incorrect = 1). We then fit a logistic curve for each partici-
+pant using a logistic hierarchical linear model (HLM). HLM
+allowed us to control for covariates at the trial level and thus
+provides a more precise estimate of participants’ latent proba-
+bility of responding accurately than analysis of variance or
+regression would have. Participants were more accurate when
+they took longer to respond, and they became more accurate as
+they completed more trials. To control for extraneous variation
+caused by speed-accuracy trade-offs and order effects, we
+included reaction time and trial order as trial-level predictors
+in each model.
+Participant-level predictors were ego-depletion condition
+(nondepleting = 0, depleting = 1), implicit theories about will-
+power (centered), and their interaction term.2 There was a
+main effect of ego-depletion condition, β = 0.36, odds ratio
+(OR) = 1.44, t(1433) = 6.71, p < .01. Participants were more
+likely to make mistakes on the Stroop task after the depleting
+task than after the nondepleting task, a finding that replicates
+past research. However, as predicted, this main effect was
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+Page 4
+Ego Depletion—Is It All in Your Head?
+3
+qualified by an interaction with implicit theories, β = 0.28,
+OR = 1.32, t(1433) = 3.88, p < .01. As displayed in Figure 1,
+only participants with a limited-resource theory (+1 SD) showed
+the usual ego-depletion pattern, making more mistakes after
+the depleting task. Participants with a nonlimited-resource
+theory (–1 SD) showed no difference in accuracy between the
+depleting and nondepleting conditions.
+To analyze the interaction, we conducted separate HLM
+models for participants with a limited-resource theory and
+those with a nonlimited-resource theory.3 These analyses con-
+firmed that the difference between the depleting and the non-
+depleting condition was significant for participants with a
+limited-resource theory, β = 0.63, OR = 1.88, t(739) = 8.27,
+p < .01, and nonsignificant for participants with a nonlimited-
+resource theory, β = 0.04, OR = 1.04, t < 1.
+The results support the hypothesis that implicit theories
+about willpower moderate ego depletion. Only participants
+with a limited-resource theory showed ego depletion. Partici-
+pants with a nonlimited-resource theory showed no difference
+between the depleting and nondepleting conditions.4
+Study 2
+In Study 2, we manipulated implicit theories about willpower
+to test their causal effect.
+Method
+Par ticipants . Forty-six students (27 females, 19 males) par-
+ticipated in exchange for course credit or $10.
+Nonlimited-Resource Theory
+Limited-Resource Theory
+e
+k
+a
+t
+s
+i
+M
+
+a
+
+f
+o
+
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+P
+.10
+.08
+.06
+.04
+.02
+0
+Nondepleting
+Depleting
+Depletion Condition
+Fig. 1. Results from Study 1: probability of making a mistake on incongruent
+trials of the Stroop task as a function of ego-depletion condition and implicit
+
+theories about willpower. The limited-resource-theory group represents
+participants 1 standard deviation above the mean on the implicit-theories
+measure. The nonlimited-resource-theory group represents participants 1
+standard deviation below the mean on the implicit-theories measure.
+Procedure . First, we manipulated implicit theories about will-
+power. Participants completed a biased questionnaire contain-
+ing nine items formulated to foster agreement with either a
+limited-resource theory (e.g., “Working on a strenuous mental
+task can make you feel tired such that you need a break before
+accomplishing a new task”) or a nonlimited-resource theory
+(e.g., “Sometimes, working on a strenuous mental task can
+make you feel energized for further challenging activities”).
+Participants responded on a 6-point scale (1 = strongly agree,
+6 = strongly disagree; α = .84). One-sample t tests comparing
+the mean in each condition with the scale’s midpoint (3.50)
+indicated that participants agreed with the suggested theory in
+both the limited-resource-theory condition (M = 2.27, SD = 0.69),
+t(23) = –8.74, p < .01, and the nonlimited-resource-theory
+condition (M = 2.80, SD = 0.68), t(21) = –4.78, p < .01.
+The rest of the study was identical to Study 1. Participants
+completed what was described as a stimulus detection task
+(which contained the ego-depletion manipulation) and then
+the Stroop task.
+Results and discussion
+We ran a logistic HLM model with accuracy of responses on
+incongruent Stroop trials as the dependent variable (correct = 0,
+false = 1), again controlling for reaction time and order. Pre-
+dictor variables were ego-depletion condition (nondepleting =
+0, depleting = 1), implicit-theory condition (nonlimited-resource
+theory = 0, limited-resource theory = 1), and their interac-
+tion. As predicted, the interaction was significant, β = 1.15,
+OR = 3.17, t(1097) = 8.47, p < .01. As displayed in Figure 2,
+only participants led to adopt the limited-resource theory
+showed ego depletion, making more mistakes after the
+depleting task than after the nondepleting task. The opposite
+pattern emerged for participants in the nonlimited-resource-
+theory condition. Separate analyses of the two groups found
+that the difference between the depleting and nondepleting
+conditions was significant (though in opposite directions) in
+both the limited-resource-theory condition, β = 0.72, OR =
+2.06, t(571) = 10.53, p < .01, and the nonlimited-resource-
+theory condition, β = –0.42, OR = 0.66, t(523) = –4.35,
+p < .01.
+The results show that manipulated theories about willpower
+as either a limited or a nonlimited resource moderate ego
+depletion, confirming that the moderating role of implicit the-
+ories about willpower is causal. Interestingly, participants who
+had been induced to hold a nonlimited-resource theory per-
+formed worse after the nondepleting task than after the deplet-
+ing task. It is intriguing to speculate that they were “depleted”
+by boredom rather than by self-control, though this effect
+needs to be replicated in future research.
+Study 3
+Study 3 was designed to test whether the findings of Study 2
+would be replicated and to shed light on possible mechanisms
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+
+Page 5
+Nonlimited-Resource Theory
+Limited-Resource Theory
+4
+
+e
+k
+a
+t
+s
+i
+M
+
+a
+
+f
+o
+
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+P
+.12
+.10
+.08
+.06
+.04
+.02
+0
+Depleting
+Nondepleting
+Depletion Condition
+Fig. 2. Results from Study 2: probability of making a mistake on incongruent
+trials of the Stroop task as a function of ego-depletion condition and
+implicit-
+theory condition.
+underlying the observed effect. First, we tested whether par-
+ticipants with a nonlimited-resource theory “overuse” their
+resources on the task following the depletion manipulation,
+leaving them depleted for a third task (see Muraven et al.,
+2006). Therefore, we assessed performance on two successive
+tasks after the depletion manipulation—Stroop performance
+and IQ performance. Second, we examined participants’ sub-
+jective experience of exhaustion. We tested (a) whether
+implicit theories about willpower changed the degree to which
+the initial self-control task was experienced as exhausting and
+(b) whether implicit theories changed the degree to which the
+subjective experience of the task as exhausting undermined
+subsequent performance.
+Method
+Par ticipants . Seventy-seven students (53 females, 24 males)
+participated in exchange for course credit or $10.
+Procedure . Participants were randomly assigned to complete
+one of the two versions of the biased questionnaire used in
+Study 2. Next, they completed the e-crossing task containing
+the depletion manipulation. This task was followed by a ques-
+tion assessing subjective exhaustion: “How exhausting was
+the stimulus detection task for you?” (1 = not at all, 9 = very
+much). Participants then completed the Stroop task. Finally,
+they completed eight challenging IQ problems, as previous
+research has shown that intellectual performance is particu-
+larly sensitive to ego depletion (Schmeichel et al., 2003). In
+each problem, participants were given 20 s to select which of
+five figures best fit in a series of figures.5
+Job et al.
+Results and discussion
+We ran the same logistic HLM model described in Study 2 on
+Stroop performance. The interaction between implicit-theory
+condition and ego-depletion condition was significant, β =
+0.25, OR = 1.29, t(1842) = 2.62, p < .01. As displayed in
+Figure 3a, participants in the limited-resource-theory condi-
+tion exhibited ego depletion, making more mistakes after the
+depleting task than after the nondepleting task. There was no
+difference between ego-depletion conditions for participants
+in the nonlimited-resource-theory condition. Separate analy-
+ses for the two implicit-theory groups found that the difference
+between the nondepleting and depleting conditions was sig-
+nificant in the limited-resource-theory condition, β = 0.59,
+OR = 1.81, t(979) = 8.59, p < .01, but not in the nonlimited-
+resource-theory condition, t(859) < 1.
+Analysis of IQ performance yielded the same pattern. The
+interaction between implicit-theory condition and ego-depletion
+condition was significant, β = 0.48, OR = 1.62, t(610) = 2.81,
+p < .01. As displayed in Figure 3b, participants in the limited-
+resource-theory condition made more mistakes after the
+depleting task than after the nondepleting task, β = 0.33, OR =
+1.39, t(324) = 2.85, p < .01. The performance of participants in
+the nonlimited-resource-theory condition did not vary by
+depletion condition, t(284) < 1.
+Next, we examined subjective exhaustion. First, we tested
+whether theories about willpower affected participants’ expe-
+rience of exhaustion. We conducted a 2 (implicit-theory condi-
+tion) × 2 (ego-depletion condition) analysis of variance. Only
+the main effect of ego-depletion condition was significant,
+F(1, 76) = 8.17, p < .01, η2 = .10. Participants experienced the
+e-crossing task as more exhausting in the depleting condition
+(M = 4.59, SD = 2.29) than in the nondepleting condition (M =
+3.31, SD = 2.03). Neither the main effect of implicit-theory
+condition nor the interaction was significant, Fs < 1. Thus, the
+induced theory of willpower did not affect the degree to which
+participants experienced the e-crossing task as exhausting.
+Second, we tested whether theories about willpower moder-
+ated the relationship between felt exhaustion and subsequent
+performance. We ran the same logistic HLM model on Stroop
+performance as initially, but replacing ego-depletion condition
+with self-reported exhaustion (centered). The interaction
+between self-reported exhaustion and implicit-theory condition
+was significant, β = 0.17, OR = 1.19, t(1842) = 3.58, p < .01
+(see Fig. 3c). Separate analysis for each implicit-theory condi-
+tion showed that greater self-reported exhaustion predicted
+more mistakes in the limited-resource-theory condition, β = 0.09,
+OR = 1.09, t(979) = 6.18, p < .01, but not in the nonlimited-
+resource-theory condition, t(859) < 1. We conducted the same
+analyses on IQ performance. Again, the interaction was signifi-
+cant, β = 0.22, OR = 1.25, t(610) = 2.67, p < .01.
+Finally, we examined whether the altered relationship
+between exhaustion and performance mediated the effect of
+implicit theories on ego depletion (see Fig. 4). We ran logistic
+HLM models with Stroop and IQ performance as dependent
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+
+Page 6
+Ego Depletion—Is It All in Your Head?
+5
+Nonlimited-Resource Theory
+Limited-Resource Theory
+b
+k
+s
+a
+T
+
+Q
+I
+
+:
+e
+k
+a
+t
+s
+i
+M
+
+a
+
+f
+o
+
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+P
+.45
+.40
+.35
+.30
+.25
+.20
+Nondepleting
+Depleting
+Depletion Condition
+a
+k
+s
+a
+T
+
+p
+o
+o
+r
+t
+S
+
+:
+e
+k
+a
+t
+s
+i
+M
+
+a
+
+f
+o
+
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+P
+.08
+.07
+.06
+.05
+.04
+.03
+.02
+.01
+0
+Nondepleting
+Depleting
+Depletion Condition
+c
+k
+s
+a
+T
+
+p
+o
+o
+r
+t
+S
+
+:
+e
+k
+a
+t
+s
+i
+M
+
+a
+
+f
+o
+
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+P
+.08
+.07
+.06
+.05
+.04
+.03
+.02
+.01
+0
+Low
+High
+Self-Reported Exhaustion
+Fig. 3. Results from Study 3: probability of making a mistake on (a)
+incongruent trials of the Stroop task and (b) the IQ task as a function of ego-
+
+depletion condition and implicit-theory condition and (c) probability of making
+a mistake on incongruent trials of the Stroop task as a function of
+experienced exhaustion and implicit-theory condition. Low and high exhaustion
+represent participants 1 standard deviation below and above the mean,
+respectively.
+variables. Predictors were the two experimental conditions
+(implicit-theory and ego-depletion conditions), their interac-
+tion, self-reported exhaustion, and the interaction between
+self-reported exhaustion and implicit-theory condition. For
+accuracy on the Stroop task, the interaction between self-
+reported exhaustion and implicit-theory condition remained
+significant, β = 0.18, OR = 1.20, t(1840) = 3.55, p < .01, but
+the interaction between ego-depletion condition and implicit-
+theory condition was no longer significant, β = 0.14, OR = 1.15,
+t(1840) = 1.56, p > .10, Sobel test: z = 2.20, p < .05. Similarly,
+for accuracy on the IQ problems, only the interaction between
+self-reported exhaustion and implicit-theory condition remained
+significant when both self-reported exhaustion and ego-depletion
+condition were included in the analysis, β = 0.19, OR = 1.21,
+t(609) = 2.15, p < .05. The results suggest that self-reported
+exhaustion in interaction with the induced resource theory medi-
+ated the Ego-Depletion Condition × Implicit-Theory Condition
+effect on both Stroop performance and IQ performance.
+In sum, Study 3 yielded no evidence that a nonlimited-
+resource theory led participants to overuse self-control
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+
+Page 7
+6
+
+Job et al.
+β = .31*
+Perceived
+Exhaustion
+× Theory
+β = .18*
+E-Crossing Task:
+Depleting vs. Nondepleting
+× Theory
+(β = .25*)
+β = .14
+Fig. 4. Analysis of self-reported exhaustion as a mediator of the interactive
+effect of ego-depletion condition
+and implicit-theory condition on Stroop performance. Asterisks indicate
+significant coefficients (*p < .01). In
+the bottom path, the beta in parentheses refers to the analysis without the
+mediator.
+Probability of a Mistake:
+Stroop Task
+resources. After a depletion manipulation, participants in the
+nonlimited-resource-theory condition showed no evidence of
+resource depletion even on a series of tasks. Further, theories
+about willpower did not affect the experience of the depleting
+task as exhausting. Instead, these theories affected the rela-
+tionship between the experience of exhaustion and subsequent
+performance. People with a nonlimited-resource theory expe-
+rienced the depleting task as just as exhausting as those with a
+limited-resource theory, but for them, exhaustion did not
+undermine subsequent performance.
+Study 4
+Studies 1 through 3 showed that measured and induced theo-
+ries about willpower as a limited versus nonlimited resource
+moderate ego depletion in a classic laboratory paradigm. Study
+4 examined the effect of implicit theories about willpower on
+people’s everyday self-regulation and goal striving. Given
+our previous findings, we hypothesized that the nonlimited-
+resource theory, compared with the limited-resource theory,
+would predict better self-regulation during times of height-
+ened stress and self-regulatory demands. Therefore, we tracked
+college students across three time points, the last of which was
+during final exams. We expected implicit theories about
+willpower at the second time point to predict self-regulation
+during final exams, but we did not expect implicit theories
+to predict self-regulation at the prior time points, when self-
+regulatory demands were lower.
+Measures . The same measures were assessed at each time
+point. First, we assessed individual differences in implicit the-
+ories about willpower using 12 items: the 6 items used previ-
+ously plus 6 items that assessed resistance to temptation as a
+further aspect of self-control (see Table S1). Items were coded
+so that higher values represent agreement with a limited-
+resource theory. The scale was internally reliable, α(T1) = .77,
+α(T2) = .86, α(T3) = .89, and showed high reliability over time
+(test-retest rs > .77).
+Second, we assessed participants’ everyday efforts at self-
+regulation by examining reported consumption of unhealthy
+foods and reported procrastination. Participants were asked
+how often in the previous week they had consumed several
+high-fat or high-sugar foods and drinks. They were also asked
+how often they had engaged in various nonacademic activities
+rather than studying (e.g., “How often did you watch TV
+instead of studying?”). Responses were made on 7-point scales
+(1 = never, 7 = two or more times per day).
+Third, we assessed self-regulation with respect to a per-
+sonal goal using a procedure developed by Brunstein, Schul-
+theiss, and Grässmann (1998). At T1, participants listed a
+personal goal that involved challenge and achievement. This
+goal was presented to participants at each time point, and they
+were asked how well they had regulated themselves in pursu-
+ing it (five items, e.g., “I was often not in the mood to do
+something for this goal”; 1 = strongly disagree, 5 = strongly
+agree), α(T1) = .69, α(T2) = .86, α(T3) = .81.
+Method
+Par ticipants and procedure . An initial Web questionnaire
+was completed by 101 undergraduates in April, at the begin-
+ning of the academic quarter (Time 1, or T1). Of these partici-
+pants, a subsample of 44 completed measures at the second
+time point, in May (T2). In the critical comparison, 41 of those
+44 participants (30 women, 11 men) also completed measures
+at the third time point, during final exams in the first week of
+June (T3). Participants in the final sample did not differ on any
+measure from participants who completed measures at T1 but
+did not continue in the study.
+Results and discussion
+The hypothesis that implicit theories about willpower affect
+self-regulation when demands on self-regulation are high
+implies that a limited-resource theory at T2 should predict
+worse self-regulation at T3. To test this hypothesis, we
+regressed self-regulation variables at T3 on implicit theories at
+T2, controlling for self-regulation at T2. These analyses
+revealed that a limited-resource theory at T2 predicted worse
+self-regulation on all three measures at the stressful time point,
+T3—consumption of unhealthy food: b = 0.41, ΔR2 = .16,
+ΔF(1, 38) = 11.76, p < .01; procrastination rather than study-
+ing: b = 0.29, ΔR2 = .08, ΔF(1, 38) = 8.11, p < .01; and
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+
+Page 8
+Ego Depletion—Is It All in Your Head?
+7
+self-regulation with respect to personal goal striving: b =
+–0.27, ΔR2 = .06, ΔF(1, 38) = 5.80, p < .05. A limited-resource
+theory at T2 also predicted lower scores on a composite of all
+three self-regulation measures at T3 (created by reverse-scoring
+personal-goal self-regulation and then standardizing and aver-
+aging the three indicators), b = 0.51, ΔR2 = .20, ΔF(1, 38) =
+24.71, p < .001. The more participants agreed with a limited-
+resource theory at T2, the more they reported eating unhealthy
+food, procrastinating, and self-regulating ineffectively while
+pursuing an important goal at T3.
+Next, we tested the reverse causal relationship—from self-
+regulation at T2 to implicit theories at T3. Implicit theories at
+T3 were regressed on T2 self-regulation, controlling for T2
+implicit theories. There was no significant relationship
+between any T2 self-regulatory variable and T3 implicit theo-
+ries, ΔFs(1, 38) < 1.30.
+The same analyses were repeated with the same sample using
+self-regulation variables and implicit theories at T1 and T2. As
+predicted, no relationship in either direction was significant.
+The results support the hypothesis that the nonlimited-
+resource theory of willpower, compared with the limited-
+resource theory, predicts better self-control during periods of
+heightened stress and self-regulatory demands. Of course, the
+results do not imply that a nonlimited-resource theory will
+always produce better self-regulation. In times of low stress,
+the limited-resource theory could prove superior (see Study 2).
+General Discussion
+In a classic laboratory paradigm, only people who thought of
+or who were led to think of willpower as a limited resource
+showed ego depletion (Studies 1–3). By contrast, for people
+who had or were led to adopt a nonlimited-resource theory, a
+demanding initial task did not undermine subsequent perfor-
+mance. In one study, the demanding task actually raised their
+subsequent performance. Further, Study 4 showed that the
+more people held a limited-resource theory, the poorer was
+their self-regulation in the real world when demands on self-
+regulation were high.
+According to the strength model of self-control, motiva-
+tional factors that counteract ego-depletion effects (e.g., incen-
+tives or expectancies) may do so because motivation can
+compensate for a lack of self-regulatory strength to some
+degree (Baumeister &amp; Vohs, 2007; Muraven et al., 2006). It is
+argued that this motivation can lead people to expend more of
+the depleted psychological resource, leaving less available for
+subsequent tasks. This process did not account for the effects
+of implicit theories about willpower. In Study 3, people led to
+adopt a nonlimited-resource theory performed better than peo-
+ple with a limited-resource theory not only on the task imme-
+diately following the depleting task (the Stroop task), but also
+on a third task (IQ problems).
+Study 3 also suggests a mechanism for ego depletion
+and for how implicit theories sustain self-control. Perceived
+exhaustion mediated the effects of the depletion manipulation
+in the limited-resource condition. This finding is consistent
+with research showing that depletion effects are better pre-
+dicted by people’s perception of depletion than by an actual
+depletion experience (Clarkson, Hirt, Jia, &amp; Alexander, 2010).
+The present research suggests that implicit theories changed
+how people responded given their level of felt exhaustion on
+the initial task. People led to adopt a limited-resource theory
+performed worse the more exhausted they felt. But for people
+led to adopt a nonlimited-resource theory, there was no rela-
+tionship between perceived exhaustion and subsequent perfor-
+mance. For them, exhaustion was not a sign to reduce effort.
+Taken together, the results suggest that in some cases, ego
+depletion may result not from a true lack of resources after an
+exhausting task, but from people’s beliefs about their resources.
+We do not question that biological resources contribute to suc-
+cessful self-control (Gailliot &amp; Baumeister, 2007; Gailliot
+et al., 2007). But these resources may be less limited than is
+commonly supposed. A key direction for future research is to
+examine how top-down processes (e.g., theories about will-
+power) and bottom-up processes (e.g., the availability of glu-
+cose) interact to affect self-control.
+Psychological research has the power to shape how people
+think about themselves (Herman, 1996). People who learn
+about the strength model of self-control may conclude that
+they are at the mercy of a fixed, physiological process that
+limits their willpower. It is important that people understand
+that their own beliefs about willpower as a limited or nonlim-
+ited resource can affect their self-regulation. It is also impor-
+tant that psychologists appreciate the impact of powerful and
+widely shared lay theories about the self and distinguish their
+effects from seemingly immutable biologically driven processes.
+Acknowledgments
+We thank Katharina Bernecker, Alena Friedrich, Yousuf Haq,
+Krishna Savani, and Rebecca Wheeler for invaluable assistance and
+Geoffrey Cohen and the Dweck-Walton Lab for helpful comments.
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with
+respect to their authorship or the publication of this article.
+Funding
+This research was supported by a Swiss National Science Foundation
+fellowship (PBZHP1-123313) to Veronika Job.
+Supplemental Material
+Additional supporting information may be found at http://pss.sagepub
+.com/content/by/supplemental-data
+Notes
+1. In all three studies using the Stroop task, the described pattern of
+results held when we combined incongruent and congruent trials but,
+as expected, not when only congruent trials were analyzed.
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+Page 9
+8
+
+Job et al.
+2. Age (centered) was included as a covariate on the participant level
+in all three studies using the Stroop task, given research showing that
+it relates to Stroop performance. All analyses used the population-
+average model.
+3. These two groups were created using a median split to allow for
+the calculation of contrasts within HLM.
+4. A possible alternative explanation is that people with a nonlimited-
+resource theory have better self-control than people with a limited-
+resource theory. However, a pilot study (N = 65) did not find a negative
+relationship between a limited-resource theory and trait self-control
+(Schwarzer, Diehl, &amp; Schmitz, 1999), r = .17, p > .20.
+5. To test whether effort took on a different (positive vs. negative)
+meaning for the two implicit-theory groups, we administered a brief
+word categorization task following the depletion manipulation. The
+task did not yield clear results and so is not discussed further.
+References
+Baumeister, R.F., Bratlavsky, E., Muraven, M., &amp; Tice, D.M. (1998).
+Ego depletion: Is the active self a limited resource? Journal of
+Personality and Social Psychology, 74, 1252–1265.
+Baumeister, R.F., &amp; Vohs, K.D. (2007). Self-regulation, ego deple-
+tion, and motivation. Social and Personality Psychology Com-
+pass, 1, 115–128.
+Baumeister, R.F., Vohs, K.D., &amp; Tice, D.M. (2007). The strength
+model of self-control. Current Directions in Psychological Sci-
+ence, 16, 351–355.
+Blackwell, L.S., Trzesniewski, K.H., &amp; Dweck, C.S. (2007). Implicit
+theories of intelligence predict achievement across an adolescent
+transition: A longitudinal study and an intervention. Child Devel-
+opment, 78, 246–263.
+Brunstein, J.C., Schultheiss, O.C., &amp; Grässmann, R. (1998). Personal
+goals and emotional well-being: The moderating role of motive
+dispositions. Journal of Personality and Social Psychology, 75,
+494–508.
+Clarkson, J.J., Hirt, E.R., Jia, L., &amp; Alexander, M.B. (2010). When
+perception is more than reality: The effects of perceived versus
+actual resource depletion on self-regulatory behavior. Journal of
+Personality and Social Psychology, 98, 29–46.
+Dweck, C.S. (1999). Self-theories: Their role in motivation, person-
+ality and development. Philadelphia, PA: Taylor &amp; Francis.
+Finkel, E.J., DeWall, C.N., Slotter, E.B., Oaten, M., &amp; Foshee, V.A.
+(2009). Self-regulatory failure and intimate partner violence
+perpetration. Journal of Personality and Social Psychology, 97,
+483–499.
+Fischer, P., Greitemeyer, T., &amp; Frey, D. (2008). Self-regulation
+and selective exposure: The impact of depleted self-regulation
+resources on confirmatory information processing. Journal of
+Personality and Social Psychology, 94, 382–395.
+Gailliot, M.T., &amp; Baumeister, R.F. (2007). The physiology of will-
+power: Linking blood glucose to self-control. Personality and
+Social Psychology Review, 11, 303–327.
+Gailliot, M.T., Baumeister, R.F., DeWall, C.N., Maner, J.K., Plant,
+E.A., Tice, D.M., et al. (2007). Self-control relies on glucose as a
+limited energy source: Willpower is more than a metaphor. Jour-
+nal of Personality and Social Psychology, 92, 325–336.
+Herman, E. (1996). The romance of American psychology: Political
+culture in the age of experts. Berkeley, CA: University of Cali-
+fornia Press.
+Inzlicht, M., &amp; Gutsell, J.N. (2007). Running on empty: Neural sig-
+nals for self-control failure. Psychological Science, 18, 933–937.
+Inzlicht, M., McKay, L., &amp; Aronson, J. (2006). Stigma as ego deple-
+tion: How being the target of prejudice affects self-control. Psy-
+chological Science, 17, 262–269.
+Martijn, C., Tenbült, P., Merckelbach, H., Dreezens, E., &amp; de Vries,
+N.K. (2002). Getting a grip on ourselves: Challenging expecta-
+tions about loss of energy after self-control. Social Cognition, 20,
+441–460.
+Molden, D.C., &amp; Dweck, C.S. (2006). Finding “meaning” in psychol-
+ogy: A lay theories approach to self-regulation, social perception,
+and social development. American Psychologist, 61, 192–203.
+Moller, A.C., Deci, E.L., &amp; Ryan, R.M. (2006). Choice and ego-
+depletion: The moderating role of autonomy. Personality and
+Social Psychology Bulletin, 32, 1024–1036.
+Muraven, M., Shmueli, D., &amp; Burkley, E. (2006). Conserving self-
+control strength. Journal of Personality and Social Psychology,
+91, 524–537.
+Muraven, M., &amp; Slessareva, E. (2003). Mechanism of self-control
+failure: Motivation and limited resource. Personality and Social
+Psychology Bulletin, 29, 894–906.
+Schmeichel, B.J., Vohs, K.D., &amp; Baumeister, R.F. (2003). Intellectual
+performance and ego depletion: Role of the self in logical reason-
+ing and other information processing. Journal of Personality and
+Social Psychology, 85, 33–46.
+Schwarzer, R., Diehl, M., &amp; Schmitz, G.S. (1999). Self-Regulation
+Scale. Retrieved October 28, 2006, from http://www.fu-berlin.de/
+gesund/skalen
+Tice, D.M., Baumeister, R.F., Shmueli, D., &amp; Muraven, M. (2007).
+Restoring the self: Positive affect helps improve self-regulation
+following ego depletion. Journal of Experimental Social Psy-
+chology, 43, 379–384.
+Vohs, K.D., Baumeister, R.F., &amp; Ciarocco, N.J. (2005). Self-regulation
+and self-presentation: Regulatory resource depletion impairs
+impression management and effortful self-presentation depletes
+regulatory resources. Journal of Personality and Social Psychol-
+ogy, 88, 632–657.
+Webb, T.L., &amp; Sheeran, P. (2003). Can implementation intentions
+help to overcome ego-depletion? Journal of Experimental Social
+Psychology, 53, 5–13.
+Wheeler, S.C., Briñol, P., &amp; Hermann, A.D. (2007). Resistance to
+persuasion as self-regulation: Ego-depletion and its effects on
+attitude change processes. Journal of Experimental Social Psy-
+chology, 43, 150–156.
+Downloaded from
+pss.sagepub.com
+by guest on October 5, 2010
+Page: 1, 2, 3, 4, 5, 6, 7, 8, 9
